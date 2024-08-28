@@ -9,7 +9,6 @@
   background-color: blue;
 }
 
-
 #h1 {
   width: 662px;
   height: 205px;
@@ -52,6 +51,7 @@ ul {
   justify-content: space-between;
   padding: 16px, 80px, 16px, 80px;
   column-gap: 28px;
+  color: white;
 }
 
 #div8 {
@@ -194,4 +194,13 @@ ul {
   display: flex;
   gap: 30px;
   justify-content: space-between;
+}
+
+#says {
+  background-color: white;
+}
+
+#ddd {
+  justify-content: center;
+  text-align: center;
 }
