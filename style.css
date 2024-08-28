@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: skyblue;
+}
+
+#first-section {
+  background-color: blue;
+}
+
+#h1 {
+  width: 662px;
+  height: 205px;
+  padding-left: 100px;
+}
+#cr {
+  width: 153px;
+  height: 76px;
+}
+#parent-container {
+  display: flex;
+  width: 1440px;
+  height: 68px;
+  justify-content: space-between;
+  padding: 16px, 80px, 16px, 80px;
+  column-gap: 28px;
+}
+ul {
+  display: flex;
+  list-style: none;
+  column-gap: 28px;
+}
+
+#div3 {
+  padding-left: 100px;
+}
+
+/* #div4 {
+  padding-left: 100px;
+} */
+
+#div5 {
+  display: flex;
+}
+
+#div7 {
+  display: flex;
+  width: 1440px;
+  height: 68px;
+  justify-content: space-between;
+  padding: 16px, 80px, 16px, 80px;
+  column-gap: 28px;
+}
+
+#div8 {
+  width: 156.62px;
+  height: 36px;
+  border: 1px #f14648;
+}
+#Truck {
+  margin-left: 100px;
+}
+
+#fine-china {
+  display: flex;
+  justify-content: space-between;
+  width: 1216px;
+  height: 145px;
+  margin-top: 760px;
+  margin-left: 112px;
+  border-radius: 16px;
+}
+
+#book {
+  background-color: black;
+  color: white;
+  width: 159px;
+  height: 56px;
+  border-radius: 64px;
+  padding: 16px, 24px, 16px, 24px;
+  gap: 8px;
+}
+
+#black {
+  display: flex;
+}
+
+#dior {
+  justify-content: center;
+  padding: 18px;
+}
+
+#gim {
+  justify-content: center;
+  padding: 18px;
+}
+
+#hey {
+  justify-content: center;
+  text-align: center;
+}
+
+#genz {
+  text-align: center;
+}
+
+#hurts {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 45px;
+}
+
+#bark {
+  width: 140px;
+  height: 50px;
+  border-radius: 58px;
+  padding: 12px, 19px, 12px, 19px;
+  gap: 8px;
+  color: white;
+  background-color: black;
+}
+
+#sure {
+  width: 140px;
+  height: 50px;
+  border-radius: 58px;
+  padding: 12px, 19px, 12px, 19px;
+  gap: 8px;
+  background-color: white;
+}
+
+#yeah {
+  width: 140px;
+  height: 50px;
+  border-radius: 58px;
+  padding: 12px, 19px, 12px, 19px;
+  gap: 8px;
+  background-color: white;
+}
+
+#yeet {
+  width: 140px;
+  height: 50px;
+  border-radius: 58px;
+  padding: 12px, 19px, 12px, 19px;
+  gap: 8px;
+  background-color: white;
+}
+
+#all {
+  background-color: black;
+  color: aliceblue;
+  border-radius: 64px;
+  padding: 16px, 40px, 16px, 40px;
+  gap: 8px;
+  text-align: center;
+  justify-content: center;
+  width: 277px;
+  height: 56px;
+}
+
+#okay {
+  text-align: center;
+}
+
+#baba {
+  text-align: center;
+}
+
+#confirm {
+  display: flex;
+}
+
+#rice {
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#beans {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#garri {
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#come-on {
+  display: flex;
+  gap: 30px;
+  justify-content: space-between;
+}
