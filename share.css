@@ -1,0 +1,80 @@
+#benz {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  color: white;
+}
+
+#bmw {
+  background-image: url("Rectangle-80.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+}
+
+#sam {
+  display: flex;
+  justify-content: center;
+}
+
+#pure {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+}
+
+#black {
+  background-color: black;
+  color: white;
+  /* width: 44px;  */
+  /* height: 73px; */
+  border-radius: 80px;
+}
+
+#yeah {
+  /* width: 44px; ; */
+  /* height: 73px; */
+  border-radius: 80px;
+  padding: 20px;
+}
+
+#pain {
+  border-radius: 80px;
+  padding: 20px;
+}
+
+#gain {
+  border-radius: 80px;
+  padding: 20px;
+}
+
+#high {
+  background-color: #007ec1e5;
+  padding: 83.84px 53px 86.79px 216px;
+}
+
+#limp {
+  width: 537px;
+  height: 117.37px;
+  top: 83.84px;
+  left: 216px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+button {
+  width: 202px;
+  height: 60.16px;
+  top: 112.44px;
+  left: 1022px;
+  gap: 0px;
+  border-radius: 73px 0px 0px 0px;
+  opacity: 0px;
+}
+
+#bu {
+  width: 1440px;
+  height: 288px;
+  gap: 0px;
+  opacity: 0px;
+}
